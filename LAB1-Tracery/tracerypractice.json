@@ -1,0 +1,55 @@
+{
+	"name": [
+		"Sir Ian McKellen",
+		"Ellen Page",
+		"Ellen Degeneres",
+		"Haley Kiyokio",
+		"Brenden Urie"
+
+	],
+	"occupation": [
+		"actor",
+		"singer",
+		"humanitarian",
+		"personality",
+		"star"
+	],
+	"activity": [
+		"pregnant",
+		"retiring",
+		"diagnosed with cancer",
+		"disappearing",
+		"an alien"
+	],
+	"JUST": [
+		"JUST",
+		"recently",
+		"long ago",
+		"once",
+		"REPEATEDLY"
+	],
+	"announced": [
+		"announced",
+		"revealed",
+		"suppressed",
+		"ignored",
+		"confessed"
+	],
+	"always": [
+		"always",
+		"never",
+		"rarely",
+		"once",
+		"invariably"
+	],
+	"expecting": [
+		"expecting",
+		"anticipating",
+		"ignoring",
+		"doubting",
+		"hoping for"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this... #name#, a well-known #occupation#, has #JUST# #announced# they're #activity#, and you won't BELIEVE what #name# has to say about it."
+	]
+}
